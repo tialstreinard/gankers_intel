@@ -5,7 +5,7 @@
 # extracts attacker (final blow) IDs and timestamps,
 # fetches character names and produces a CSV file for further analysis
 
-SYSTEM_ID="30002768" # <-- CHANGE THIS TO TARGET SYSTEM
+SYSTEM_ID="30000142" # <-- CHANGE THIS TO TARGET SYSTEM
 
 # ===== STEP 1: Fetch kills =====
 echo "Fetching system name for system ID $SYSTEM_ID..."
